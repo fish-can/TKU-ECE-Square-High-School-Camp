@@ -1,6 +1,6 @@
 # TKU-ECE-Square-High-School-Camp
 
-## Tree
+## Directory Structure
 ```
 .
 ├── assets
@@ -56,4 +56,5 @@
 └── README.md
 ```
 
-- License： [Creative Commons Attribution 3.0](http://creativecommons.org/licenses/by/3.0)
+ ## License：
+    [Creative Commons Attribution 3.0](http://creativecommons.org/licenses/by/3.0)
