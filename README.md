@@ -24,7 +24,6 @@
 ├── CNAME
 ├── _config.yml
 ├── files
-│   ├── ~$18年淡江大學電機系ECE平方高中營活動簡章_0323.docx
 │   ├── 2018ECE平方高中營_0323最終版.pdf
 │   └── 2018年淡江大學電機系ECE平方高中營活動簡章_0323.docx
 ├── images
@@ -56,5 +55,5 @@
 └── README.md
 ```
 
- ## License：
+ ## License
 - [Creative Commons Attribution 3.0](http://creativecommons.org/licenses/by/3.0)
