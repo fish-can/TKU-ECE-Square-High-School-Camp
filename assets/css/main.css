@@ -4345,3 +4345,12 @@
 			}
 
 		}
+
+/* debug */
+
+		@media screen and (max-height: 700px) {
+
+			.hide{
+				display: none;
+			}
+		}
